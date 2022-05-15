@@ -3,7 +3,7 @@ An infinite runner type game developed in Unity engine with the help of C#.
 
 Google play link: https://play.google.com/store/apps/details?id=com.floopypotato.BestGameEU
 
-<ims src="">
+<img src="https://github.com/mistybanana/Cubeline-unity-game/blob/main/appstore_screenshots/1.webp" width="200" height="200">
   
 ---
 Guide your Cube through the geometric world of Obstacles, Particles and Reflex.

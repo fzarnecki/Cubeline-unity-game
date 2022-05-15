@@ -15,12 +15,12 @@ This is harder than it sounds.
 
 Your little Cube needs your help to overcome the obstacles in its path ★
 
-★ Master the timing and go further than you think possible!
-★ Admire the peaceful and beautiful space around!
-★ Customize your Cube to suit your style!
-★ Release soothing particles and crazy bonuses!
-★ Experience rewarding animations and actions!
-★ Reach speed limits and a continuous series of bonuses!
+  ★ Master the timing and go further than you think possible!
+  ★ Admire the peaceful and beautiful space around!
+  ★ Customize your Cube to suit your style!
+  ★ Release soothing particles and crazy bonuses!
+  ★ Experience rewarding animations and actions!
+  ★ Reach speed limits and a continuous series of bonuses!
 
 Check it out for yourself if you like simplicity combined with aesthetics and satisfaction (and a small challenge).
 
